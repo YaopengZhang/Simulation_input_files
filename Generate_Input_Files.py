@@ -77,7 +77,7 @@ def generate_output_files(data, output_dir):
      10.0	Thickness of target (Full width, cm)
      0.0        Raster full-width x (cm)
      0.0        Raster full-width y (cm)
-     890.4	one radiation length of target material (in cm)
+     890.5	one radiation length of target material (in cm)
      0.0        Beam x offset (cm)  +x = beam left
      0.0	Beam y offset (cm)  +y = up
      0.0        Target z offset (cm)+z = downstream (0.25)
@@ -105,7 +105,7 @@ def generate_output_files(data, output_dir):
      10.0	Thickness of target (Full width, cm)
      0.0        Raster full-width x (cm)
      0.0        Raster full-width y (cm)
-     745.4	one radiation length of target material (in cm)
+     769.1	one radiation length of target material (in cm)
      0.0        Beam x offset (cm)  +x = beam left
      0.0	Beam y offset (cm)  +y = up
      0.0        Target z offset (cm)+z = downstream (0.25)
